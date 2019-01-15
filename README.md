@@ -6,4 +6,4 @@ Designed VHDL codebase with FPGA utilization for supporting assembly language pr
 Implemented SoC, RTL and module hierarchical design methodology. Participated in reviews of specifications, designing test benches, and writing technical reports.
 
 
-![alt text](http://Users/hunzaw/Downloads/Courses/CMPE140/140L8/L7datapathv5.png)
+![screenshot](L7datapathv5.png)
