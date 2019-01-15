@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../factorial/factorial.srcs/sources_1/new/REG.v" \
+"../../../../../L5MIPS/L5MIPS.srcs/sources_1/new/gpio_ad.v" \
+"../../../../../L5MIPS/L5MIPS.srcs/sources_1/new/gpio_top.v" \
+"../../../../../L5MIPS/L5MIPS.srcs/sources_1/new/mux4.v" \
+"../../../../../L5MIPS/L5MIPS.srcs/sim_1/new/gpio_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
