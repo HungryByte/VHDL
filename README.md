@@ -8,6 +8,6 @@ VHDL codebase for supporting assembly language programming of the MIPS processor
 
 ![screenshot](L7datapathv5.png)
 
-Implemented System on Chip, Register Transfer Level, and module hierarchical design methodology for decreasing the time to calculate the factorial of a number. 
+Implemented System on Chip (hardware accelerated), Register Transfer Level, and module hierarchical design methodology for decreasing the time the system take to calculate the factorial of a number. 
 
 ![screenshot](SoC.png)
