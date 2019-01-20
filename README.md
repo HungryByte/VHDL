@@ -6,6 +6,8 @@ VHDL codebase for supporting assembly language programming of the MIPS processor
           J-Type: J, JAL
           R-Type: ADD, SUB, SLL, SRL, JR, MUL, MULU, MFLO, MFHI, AND, OR, SLT
 
+![screenshot](L7datapathv5.png)
+
 Implemented System on Chip, Register Transfer Level, and module hierarchical design methodology for decreasing the time to calculate the factorial of a number. 
 
-![screenshot](L7datapathv5.png)
+![screenshot](SoC.png)
